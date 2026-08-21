@@ -1,0 +1,716 @@
+customer_id,customer_name,email,city,customer_type
+20001,Urim Berisha,urim.berisha20001@mail.com,Gjakove,vip
+20002,Ardit Fejzullahu,ardit.fejzullahu20002@mail.com,PEJA,Retail
+20003,Eljesa Azemi,eljesa.azemi20003@mail.com,FERIZAJ,business
+20004,Dren Krasniqi,dren.krasniqi20004@mail.com,PRISHTINA, BUSINESS 
+20005,Amar Krasniqi,amar.krasniqi20005@mail.com, Mitrovice , BUSINESS 
+20006,Era Shala,era.shala20006@mail.com, Peja ,retail
+20007,Rijon Avdiu,rijon.avdiu20007@mail.com,GJILAN,vip
+20008,Melos Krasniqi,melos.krasniqi20008@mail.com, Gjilan ,business
+20009,Yllza Gashi,yllza.gashi20009@mail.com,Gjilan,vip
+20010,Ensar Krasniqi,ensar.krasniqi20010@mail.com,FERIZAJ,Retail
+20011,Yllza Shala,yllza.shala20011@mail.com,Vushtrri,business
+20012,Ensar Shala,ensar.shala20012@mail.com, Vushtrri ,Retail
+20013,Amar Shala,amar.shala20013@mail.com,Gjilan,business
+20014,Amar Shala,amar.shala20014@mail.com,prishtina,retail
+20015,Era Aliu,era.aliu20015@mail.com,Prizren,business
+20016,Era Beqiri,era.beqiri20016@mail.com,GJAKOVE, BUSINESS 
+20017,Urim Kalludra,urim.kalludra20017@mail.com,ferizaj,Retail
+20018,Leon Aliu,leon.aliu20018@mail.com, Prizren ,retail
+20019,Era Shala,era.shala20019@mail.com,Vushtrri, BUSINESS 
+20020,Diona Azemi,diona.azemi20020@mail.com,Ferizaj,business
+20021,Urim Krasniqi,urim.krasniqi20021@mail.com, Prishtina ,vip
+20022,Era Avdiu,era.avdiu20022@mail.com, Gjakove ,vip
+20023,Rijad Azemi,bad-email,Gjakove,vip
+20024,Ensar Aliu,ensar.aliu20024@mail.com,Prishtina, BUSINESS 
+20025,Amar Azemi,amar.azemi20025@mail.com,Vushtrri,business
+20026,Rijon Beqiri,rijon.beqiri20026@mail.com,prizren,vip
+20027,Sara Kalludra,sara.kalludra20027@mail.com,gjakove, BUSINESS 
+20028,Rijad Shala,rijad.shala20028@mail.com,Ferizaj,retail
+20029,Leon Gashi,leon.gashi20029@mail.com,Peja,business
+20030,,dren.beqiri20030@mail.com, Gjakove , BUSINESS 
+20031,Yllza Shtitarica,yllza.shtitarica20031@mail.com,prizren,vip
+20032,Ensar Gashi,ensar.gashi20032@mail.com,GJAKOVE,retail
+20033,Leard Kalludra,leard.kalludra20033@mail.com, Gjakove ,vip
+20034,Melos Gashi,melos.gashi20034@mail.com,Prishtina, BUSINESS 
+20035,Ardit Beqiri,ardit.beqiri20035@mail.com,gjilan,vip
+20036,Leon Avdiu,leon.avdiu20036@mail.com,prizren, BUSINESS 
+20037,Dren Berisha,dren.berisha20037@mail.com,Prishtina, BUSINESS 
+20038,Leon Gashi,leon.gashi20038@mail.com,prizren, BUSINESS 
+20039,Rijon Krasniqi,rijon.krasniqi20039@mail.com,GJILAN,vip
+20040,Yllza Tahiri,yllza.tahiri20040@mail.com,vushtrri,vip
+20041,Era Aliu,era.aliu20041@mail.com,gjilan, BUSINESS 
+20042,Amar Gashi,amar.gashi20042@mail.com,Prizren,retail
+20043,Ensar Gashi,ensar.gashi20043@mail.com,PEJA,retail
+20044,Era Gashi,era.gashi20044@mail.com,gjakove,retail
+20045,Melos Beqiri,melos.beqiri20045@mail.com,FERIZAJ, BUSINESS 
+20046,Rijon Azemi,rijon.azemi20046@mail.com,Peja,retail
+20047,Ardit Gashi,ardit.gashi20047@mail.com, Gjilan , BUSINESS 
+20048,Leard Azemi,leard.azemi20048@mail.com,ferizaj,business
+20049,Dren Shala,dren.shala20049@mail.com,Peja, BUSINESS 
+20050,Diona Shtitarica,diona.shtitarica20050@mail.com,Ferizaj,business
+20051,Sara Fejzullahu,sara.fejzullahu20051@mail.com,Gjilan,Retail
+20052,Diona Gashi,diona.gashi20052@mail.com,Gjilan,vip
+20053,Rijad Beqiri,rijad.beqiri20053@mail.com,Peja,vip
+20054,Leon Aliu,leon.aliu20054@mail.com,prishtina,vip
+20055,Era Aliu,era.aliu20055@mail.com,ferizaj,business
+20056,Rijon Fejzullahu,rijon.fejzullahu20056@mail.com,mitrovice, BUSINESS 
+20057,Urim Azemi,urim.azemi20057@mail.com,Peja, BUSINESS 
+20058,Amar Tahiri,amar.tahiri20058@mail.com, Ferizaj ,Retail
+20059,Amar Tahiri,amar.tahiri20059@mail.com,Peja, BUSINESS 
+20060,Dren Fejzullahu,dren.fejzullahu20060@mail.com,PRIZREN,retail
+20061,Eljesa Gashi,eljesa.gashi20061@mail.com,gjakove, BUSINESS 
+20062,Ensar Azemi,ensar.azemi20062@mail.com,prizren,retail
+20063,Rijon Tahiri,rijon.tahiri20063@mail.com, Mitrovice ,business
+20064,Era Aliu,era.aliu20064@mail.com,PEJA,Retail
+20065,Ardit Shtitarica,ardit.shtitarica20065@mail.com,Prizren,Retail
+20066,Leon Shtitarica,leon.shtitarica20066@mail.com,VUSHTRRI,vip
+20067,Eljesa Berisha,eljesa.berisha20067@mail.com, Peja ,Retail
+20068,Melos Tahiri,melos.tahiri20068@mail.com,Vushtrri,Retail
+20069,Eljesa Shtitarica,eljesa.shtitarica20069@mail.com, Peja ,vip
+20070,Diona Shala,diona.shala20070@mail.com,Peja,retail
+20071,Era Shala,era.shala20071@mail.com,Gjakove,business
+20072,Era Avdiu,era.avdiu20072@mail.com,gjilan,business
+20073,Sara Fejzullahu,sara.fejzullahu20073@mail.com, Peja ,business
+20074,Dren Beqiri,dren.beqiri20074@mail.com, Gjakove ,retail
+20075,Ensar Beqiri,ensar.beqiri20075@mail.com,GJILAN,vip
+20076,Era Berisha,era.berisha20076@mail.com,mitrovice,Retail
+20077,Era Azemi,era.azemi20077@mail.com,prizren,vip
+20078,,ardit.shala20078@mail.com,vushtrri, BUSINESS 
+20079,Rijon Krasniqi,rijon.krasniqi20079@mail.com,PEJA, BUSINESS 
+20080,Urim Krasniqi,urim.krasniqi20080@mail.com,Peja, BUSINESS 
+20081,Diona Shtitarica,diona.shtitarica20081@mail.com,VUSHTRRI,business
+20082,Yllza Aliu,yllza.aliu20082@mail.com,prishtina,business
+20083,Rijon Azemi,rijon.azemi20083@mail.com,Gjakovë,Retail
+20084,Ensar Gashi,ensar.gashi20084@mail.com,GJAKOVE,retail
+20085,Leard Krasniqi,leard.krasniqi20085@mail.com,Vushtrri,retail
+20086,Diona Aliu,diona.aliu20086@mail.com,Peja, BUSINESS 
+20087,Ardit Shala,ardit.shala20087@mail.com,Vushtrri,vip
+20088,Melos Shala,melos.shala20088@mail.com, Gjakove ,retail
+20089,Sara Aliu,sara.aliu20089@mail.com,PEJA,business
+20090,Ensar Gashi,ensar.gashi20090@mail.com,peja, BUSINESS 
+20091,Leon Shtitarica,leon.shtitarica20091@mail.com,Prizren,business
+20092,Rijon Azemi,rijon.azemi20092@mail.com,MITROVICE, BUSINESS 
+20093,Melos Azemi,melos.azemi20093@mail.com,gjilan,Retail
+20094,Rijon Krasniqi,rijon.krasniqi20094@mail.com,Mitrovice,vip
+20095,Yllza Tahiri,yllza.tahiri20095@mail.com, Gjilan ,Retail
+20096,Dren Fejzullahu,dren.fejzullahu20096@mail.com,Ferizaj,Retail
+20097,Leon Shtitarica,leon.shtitarica20097@mail.com,GJILAN, BUSINESS 
+20098,Leard Azemi,leard.azemi20098@mail.com,MITROVICE,Retail
+20099,Melos Krasniqi,melos.krasniqi20099@mail.com,Peja, BUSINESS 
+20100,Eljesa Kalludra,eljesa.kalludra20100@mail.com,Prishtina,retail
+20101,Era Tahiri,era.tahiri20101@mail.com,Vushtrri,retail
+20102,Melos Gashi,melos.gashi20102@mail.com,gjilan,vip
+20103,Rijon Fejzullahu,rijon.fejzullahu20103@mail.com,mitrovice,vip
+20104,Eljesa Avdiu,eljesa.avdiu20104@mail.com,mitrovice, BUSINESS 
+20105,Dren Kalludra,dren.kalludra20105@mail.com,Mitrovice,vip
+20106,Amar Krasniqi,bad-email,Mitrovice,business
+20107,Sara Krasniqi,sara.krasniqi20107@mail.com,Peja,business
+20108,Era Aliu,era.aliu20108@mail.com,FERIZAJ,Retail
+20109,Dren Kalludra,dren.kalludra20109@mail.com,ferizaj,business
+20110,Rijad Shtitarica,rijad.shtitarica20110@mail.com,gjilan,Retail
+20111,Rijon Beqiri,rijon.beqiri20111@mail.com,prishtina,vip
+20112,Dren Shala,dren.shala20112@mail.com,Mitrovice,Retail
+20113,Sara Avdiu,sara.avdiu20113@mail.com, Gjilan ,business
+20114,Leard Shala,leard.shala20114@mail.com,prishtina,vip
+20115,Diona Gashi,diona.gashi20115@mail.com,Ferizaj, BUSINESS 
+20116,Dren Tahiri,dren.tahiri20116@mail.com,vushtrri,Retail
+20117,Leard Gashi,leard.gashi20117@mail.com,PRISHTINA,vip
+20118,Leard Shala,leard.shala20118@mail.com,Mitrovicë,Retail
+20119,Amar Beqiri,amar.beqiri20119@mail.com,PEJA,vip
+20120,Era Avdiu,era.avdiu20120@mail.com,ferizaj, BUSINESS 
+20121,Era Avdiu,era.avdiu20121@mail.com,Peja,vip
+20122,Rijon Tahiri,rijon.tahiri20122@mail.com,gjilan, BUSINESS 
+20123,Diona Avdiu,diona.avdiu20123@mail.com,Mitrovicë,retail
+20124,Leon Avdiu,leon.avdiu20124@mail.com,Vushtrri, BUSINESS 
+20125,Dren Berisha,dren.berisha20125@mail.com,GJILAN,retail
+20126,Era Avdiu,era.avdiu20126@mail.com,ferizaj,Retail
+20127,Rijon Aliu,rijon.aliu20127@mail.com,Vushtrri,Retail
+20128,Eljesa Krasniqi,eljesa.krasniqi20128@mail.com,gjilan,vip
+20129,Diona Berisha,diona.berisha20129@mail.com, Mitrovice ,vip
+20130,Yllza Shala,yllza.shala20130@mail.com,vushtrri, BUSINESS 
+20131,Diona Beqiri,bad-email,Gjilan, BUSINESS 
+20132,Ardit Avdiu,ardit.avdiu20132@mail.com,Ferizaj,Retail
+20133,Ardit Beqiri,ardit.beqiri20133@mail.com,PRISHTINA,retail
+20134,Amar Kalludra,amar.kalludra20134@mail.com,Peja,vip
+20135,Diona Gashi,diona.gashi20135@mail.com,Peja,retail
+20136,Eljesa Kalludra,eljesa.kalludra20136@mail.com, Prizren ,business
+20137,Leard Krasniqi,leard.krasniqi20137@mail.com,PRISHTINA, BUSINESS 
+20138,Diona Gashi,diona.gashi20138@mail.com,Vushtrri,vip
+20139,Sara Avdiu,sara.avdiu20139@mail.com,GJAKOVE,retail
+20140,,era.beqiri20140@mail.com,Vushtrri, BUSINESS 
+20141,Rijon Gashi,rijon.gashi20141@mail.com, Prishtina ,Retail
+20142,Ensar Krasniqi,ensar.krasniqi20142@mail.com,GJILAN,retail
+20143,Sara Shala,sara.shala20143@mail.com,GJILAN,business
+20144,Era Avdiu,era.avdiu20144@mail.com,peja,retail
+20145,Sara Avdiu,sara.avdiu20145@mail.com, Prishtina , BUSINESS 
+20146,Ensar Shtitarica,ensar.shtitarica20146@mail.com,gjilan,vip
+20147,Urim Shtitarica,urim.shtitarica20147@mail.com,Ferizaj, BUSINESS 
+20148,Amar Avdiu,amar.avdiu20148@mail.com, Gjakove ,Retail
+20149,Eljesa Tahiri,eljesa.tahiri20149@mail.com,Vushtrri, BUSINESS 
+20150,Yllza Shala,yllza.shala20150@mail.com,gjakove, BUSINESS 
+20151,Amar Shtitarica,amar.shtitarica20151@mail.com,Gjakove,Retail
+20152,Leard Tahiri,leard.tahiri20152@mail.com,FERIZAJ,vip
+20153,Urim Kalludra,urim.kalludra20153@mail.com,MITROVICE,retail
+20154,Urim Gashi,urim.gashi20154@mail.com,Gjilan,retail
+20155,Leon Shtitarica,leon.shtitarica20155@mail.com,Gjakove,vip
+20156,Leard Kalludra,leard.kalludra20156@mail.com, Vushtrri , BUSINESS 
+20157,Rijad Shtitarica,rijad.shtitarica20157@mail.com,Mitrovice, BUSINESS 
+20158,Leard Shtitarica,leard.shtitarica20158@mail.com,Vushtrri,Retail
+20159,Sara Fejzullahu,sara.fejzullahu20159@mail.com, Peja , BUSINESS 
+20160,Melos Beqiri,melos.beqiri20160@mail.com, Mitrovice , BUSINESS 
+20161,Rijon Kalludra,rijon.kalludra20161@mail.com, Prishtina ,retail
+20162,Dren Krasniqi,dren.krasniqi20162@mail.com,GJAKOVE,business
+20163,Amar Fejzullahu,amar.fejzullahu20163@mail.com,prizren, BUSINESS 
+20164,Rijad Avdiu,rijad.avdiu20164@mail.com,GJAKOVE,retail
+20165,Rijon Shala,rijon.shala20165@mail.com,prishtina, BUSINESS 
+20166,Rijad Shtitarica,rijad.shtitarica20166@mail.com, Prizren ,vip
+20167,Urim Azemi,urim.azemi20167@mail.com,FERIZAJ,retail
+20168,Urim Avdiu,urim.avdiu20168@mail.com,vushtrri,retail
+20169,Eljesa Gashi,eljesa.gashi20169@mail.com, Prishtina ,Retail
+20170,Rijad Tahiri,rijad.tahiri20170@mail.com,PEJA, BUSINESS 
+20171,Ensar Tahiri,ensar.tahiri20171@mail.com,FERIZAJ,vip
+20172,Era Aliu,era.aliu20172@mail.com,Vushtrri,Retail
+20173,Era Tahiri,era.tahiri20173@mail.com, Ferizaj , BUSINESS 
+20174,Eljesa Krasniqi,eljesa.krasniqi20174@mail.com,PRISHTINA,vip
+20175,Eljesa Fejzullahu,eljesa.fejzullahu20175@mail.com,Prishtina,business
+20176,Melos Tahiri,melos.tahiri20176@mail.com,PRISHTINA,business
+20177,Ensar Shtitarica,ensar.shtitarica20177@mail.com,Prishtina,business
+20178,Sara Shala,sara.shala20178@mail.com, Ferizaj ,vip
+20179,Leard Fejzullahu,leard.fejzullahu20179@mail.com,Peja,retail
+20180,Eljesa Avdiu,eljesa.avdiu20180@mail.com, Prishtina , BUSINESS 
+20181,Melos Gashi,melos.gashi20181@mail.com,gjilan, BUSINESS 
+20182,Ensar Azemi,ensar.azemi20182@mail.com,Mitrovicë,business
+20183,,diona.krasniqi20183@mail.com,Vushtrri,business
+20184,Amar Azemi,amar.azemi20184@mail.com,Ferizaj,Retail
+20185,Yllza Azemi,yllza.azemi20185@mail.com,PEJA,retail
+20186,Ensar Krasniqi,ensar.krasniqi20186@mail.com,PRISHTINA,Retail
+20187,Dren Shala,dren.shala20187@mail.com, Gjilan ,Retail
+20188,Yllza Kalludra,yllza.kalludra20188@mail.com,Gjilan, BUSINESS 
+20189,Era Berisha,era.berisha20189@mail.com,ferizaj,retail
+20190,Rijon Avdiu,rijon.avdiu20190@mail.com,Vushtrri,retail
+20191,Era Aliu,era.aliu20191@mail.com,gjilan,business
+20192,Melos Gashi,melos.gashi20192@mail.com,Gjakovë, BUSINESS 
+20193,Amar Tahiri,amar.tahiri20193@mail.com,vushtrri,retail
+20194,Sara Shala,sara.shala20194@mail.com,MITROVICE, BUSINESS 
+20195,Ensar Fejzullahu,ensar.fejzullahu20195@mail.com, Vushtrri ,business
+20196,Rijon Tahiri,rijon.tahiri20196@mail.com, Peja ,vip
+20197,Amar Kalludra,amar.kalludra20197@mail.com, Peja , BUSINESS 
+20198,Yllza Krasniqi,yllza.krasniqi20198@mail.com,GJAKOVE,vip
+20199,Leard Aliu,leard.aliu20199@mail.com,GJAKOVE, BUSINESS 
+20200,Rijon Azemi,rijon.azemi20200@mail.com,Prishtina,business
+20201,Urim Fejzullahu,urim.fejzullahu20201@mail.com,PRIZREN,Retail
+20202,Melos Shala,melos.shala20202@mail.com, Mitrovice ,retail
+20203,Melos Kalludra,melos.kalludra20203@mail.com,prizren,Retail
+20204,Leard Aliu,leard.aliu20204@mail.com,Ferizaj, BUSINESS 
+20205,Eljesa Tahiri,eljesa.tahiri20205@mail.com, Peja ,business
+20206,Diona Berisha,diona.berisha20206@mail.com,Prizren,retail
+20207,Rijon Aliu,rijon.aliu20207@mail.com,ferizaj,vip
+20208,Ardit Krasniqi,ardit.krasniqi20208@mail.com,Mitrovice,vip
+20209,Yllza Gashi,yllza.gashi20209@mail.com,Vushtrri,retail
+20210,Ardit Azemi,ardit.azemi20210@mail.com,VUSHTRRI,Retail
+20211,Ardit Shala,bad-email,PRISHTINA,business
+20212,Eljesa Shala,eljesa.shala20212@mail.com,Peja,vip
+20213,Eljesa Tahiri,eljesa.tahiri20213@mail.com,prishtina,vip
+20214,Eljesa Kalludra,eljesa.kalludra20214@mail.com,PEJA,Retail
+20215,Diona Fejzullahu,diona.fejzullahu20215@mail.com,FERIZAJ,business
+20216,Leon Shtitarica,leon.shtitarica20216@mail.com,prizren, BUSINESS 
+20217,Yllza Azemi,yllza.azemi20217@mail.com,Gjilan, BUSINESS 
+20218,,melos.gashi20218@mail.com,GJAKOVE, BUSINESS 
+20219,Leard Fejzullahu,leard.fejzullahu20219@mail.com,Prishtina,vip
+20220,Rijon Aliu,rijon.aliu20220@mail.com,VUSHTRRI,Retail
+20221,Ardit Shtitarica,ardit.shtitarica20221@mail.com,gjakove,vip
+20222,Leon Avdiu,leon.avdiu20222@mail.com,vushtrri,retail
+20223,Rijad Shtitarica,rijad.shtitarica20223@mail.com, Mitrovice , BUSINESS 
+20224,Dren Aliu,dren.aliu20224@mail.com,FERIZAJ,business
+20225,Diona Kalludra,diona.kalludra20225@mail.com,Peja,business
+20226,Rijad Shtitarica,rijad.shtitarica20226@mail.com,Gjilan,business
+20227,Leard Aliu,leard.aliu20227@mail.com, Ferizaj ,vip
+20228,Ardit Kalludra,ardit.kalludra20228@mail.com,GJAKOVE,Retail
+20229,Rijad Fejzullahu,rijad.fejzullahu20229@mail.com, Prishtina ,vip
+20230,Rijon Shala,rijon.shala20230@mail.com,PRISHTINA,vip
+20231,Sara Shtitarica,sara.shtitarica20231@mail.com,FERIZAJ,vip
+20232,Dren Shala,dren.shala20232@mail.com,vushtrri,business
+20233,Ardit Shtitarica,ardit.shtitarica20233@mail.com,Vushtrri,Retail
+20234,Dren Shtitarica,dren.shtitarica20234@mail.com,peja, BUSINESS 
+20235,Rijad Gashi,rijad.gashi20235@mail.com,GJAKOVE,Retail
+20236,Leon Berisha,leon.berisha20236@mail.com,Vushtrri,business
+20237,Amar Fejzullahu,amar.fejzullahu20237@mail.com,Peja,business
+20238,Rijad Krasniqi,rijad.krasniqi20238@mail.com,Ferizaj,retail
+20239,Yllza Fejzullahu,yllza.fejzullahu20239@mail.com,gjilan,retail
+20240,Era Shala,era.shala20240@mail.com,Prizren,vip
+20241,Leon Beqiri,leon.beqiri20241@mail.com, Prizren ,Retail
+20242,Dren Krasniqi,dren.krasniqi20242@mail.com,MITROVICE, BUSINESS 
+20243,Leard Beqiri,leard.beqiri20243@mail.com,prishtina,vip
+20244,Sara Krasniqi,sara.krasniqi20244@mail.com,FERIZAJ,Retail
+20245,Rijad Aliu,rijad.aliu20245@mail.com,peja,vip
+20246,Urim Shtitarica,urim.shtitarica20246@mail.com,PEJA, BUSINESS 
+20247,Yllza Shtitarica,yllza.shtitarica20247@mail.com, Prishtina ,Retail
+20248,Ardit Gashi,ardit.gashi20248@mail.com,Peja,business
+20249,Ensar Tahiri,ensar.tahiri20249@mail.com,PRIZREN,retail
+20250,Ardit Krasniqi,ardit.krasniqi20250@mail.com, Prizren ,business
+20251,Ardit Azemi,ardit.azemi20251@mail.com,Vushtrri, BUSINESS 
+20252,Amar Tahiri,amar.tahiri20252@mail.com,Prizren,retail
+20253,Urim Gashi,urim.gashi20253@mail.com, Gjilan ,retail
+20254,Leon Gashi,leon.gashi20254@mail.com,gjakove,retail
+20255,Ardit Fejzullahu,ardit.fejzullahu20255@mail.com,Mitrovicë, BUSINESS 
+20256,,rijon.krasniqi20256@mail.com,Gjakove,retail
+20257,Amar Shala,amar.shala20257@mail.com,mitrovice, BUSINESS 
+20258,,yllza.kalludra20258@mail.com,Mitrovice,retail
+20259,Leard Azemi,leard.azemi20259@mail.com,Vushtrri, BUSINESS 
+20260,Era Shtitarica,era.shtitarica20260@mail.com,Peja,vip
+20261,Sara Azemi,sara.azemi20261@mail.com,Peja,business
+20262,Urim Shtitarica,urim.shtitarica20262@mail.com,Prishtina,Retail
+20263,Leon Berisha,leon.berisha20263@mail.com,gjakove,retail
+20264,Diona Shala,diona.shala20264@mail.com, Gjakove ,Retail
+20265,Rijon Beqiri,rijon.beqiri20265@mail.com,ferizaj,business
+20266,Sara Gashi,sara.gashi20266@mail.com,prizren,Retail
+20267,Dren Berisha,dren.berisha20267@mail.com,Gjakove,vip
+20268,Ensar Beqiri,ensar.beqiri20268@mail.com,Mitrovicë, BUSINESS 
+20269,Sara Avdiu,sara.avdiu20269@mail.com,vushtrri,business
+20270,Era Avdiu,era.avdiu20270@mail.com,GJAKOVE,Retail
+20271,Era Shala,era.shala20271@mail.com,MITROVICE,Retail
+20272,Ardit Tahiri,ardit.tahiri20272@mail.com,Mitrovice, BUSINESS 
+20273,Sara Avdiu,sara.avdiu20273@mail.com,VUSHTRRI,vip
+20274,Leard Krasniqi,leard.krasniqi20274@mail.com,Mitrovicë,retail
+20275,Sara Avdiu,sara.avdiu20275@mail.com,gjakove, BUSINESS 
+20276,Ensar Shala,ensar.shala20276@mail.com,FERIZAJ,business
+20277,Ardit Krasniqi,ardit.krasniqi20277@mail.com,Gjilan,Retail
+20278,Diona Azemi,diona.azemi20278@mail.com,Peja,Retail
+20279,Yllza Kalludra,yllza.kalludra20279@mail.com,PEJA,vip
+20280,Ardit Kalludra,ardit.kalludra20280@mail.com,mitrovice,business
+20281,Amar Aliu,amar.aliu20281@mail.com,PEJA,business
+20282,Amar Berisha,amar.berisha20282@mail.com, Vushtrri ,business
+20283,Leard Azemi,leard.azemi20283@mail.com, Gjakove ,vip
+20284,Diona Azemi,bad-email,mitrovice,vip
+20285,Melos Fejzullahu,melos.fejzullahu20285@mail.com,Vushtrri,vip
+20286,Diona Beqiri,diona.beqiri20286@mail.com,VUSHTRRI,vip
+20287,Era Azemi,era.azemi20287@mail.com,VUSHTRRI,vip
+20288,Melos Aliu,melos.aliu20288@mail.com,PRISHTINA,vip
+20289,Ensar Krasniqi,ensar.krasniqi20289@mail.com, Peja ,business
+20290,Ardit Shala,ardit.shala20290@mail.com,prishtina,business
+20291,Amar Berisha,amar.berisha20291@mail.com,PEJA,vip
+20292,Rijon Azemi,rijon.azemi20292@mail.com,Prizren,retail
+20293,Diona Azemi,diona.azemi20293@mail.com,prishtina,business
+20294,Rijon Shala,rijon.shala20294@mail.com,Vushtrri,business
+20295,Ensar Krasniqi,ensar.krasniqi20295@mail.com,Gjakove,retail
+20296,Leon Fejzullahu,leon.fejzullahu20296@mail.com,Prishtina, BUSINESS 
+20297,Amar Gashi,amar.gashi20297@mail.com,mitrovice,Retail
+20298,Urim Gashi,urim.gashi20298@mail.com,VUSHTRRI,Retail
+20299,Yllza Fejzullahu,yllza.fejzullahu20299@mail.com,PRIZREN, BUSINESS 
+20300,Eljesa Avdiu,eljesa.avdiu20300@mail.com,GJAKOVE,retail
+20301,Yllza Kalludra,yllza.kalludra20301@mail.com,gjilan, BUSINESS 
+20302,Urim Aliu,urim.aliu20302@mail.com,peja, BUSINESS 
+20303,Rijon Beqiri,rijon.beqiri20303@mail.com,Ferizaj,retail
+20304,Era Kalludra,era.kalludra20304@mail.com,Vushtrri,vip
+20305,Rijad Avdiu,rijad.avdiu20305@mail.com,peja,retail
+20306,Dren Tahiri,dren.tahiri20306@mail.com,Prizren,vip
+20307,Yllza Azemi,yllza.azemi20307@mail.com,VUSHTRRI, BUSINESS 
+20308,Yllza Tahiri,yllza.tahiri20308@mail.com,Gjakovë,vip
+20309,Sara Shala,sara.shala20309@mail.com,Ferizaj,retail
+20310,Ardit Shtitarica,ardit.shtitarica20310@mail.com,Peja,Retail
+20311,Rijad Aliu,rijad.aliu20311@mail.com,vushtrri,vip
+20312,Sara Avdiu,sara.avdiu20312@mail.com,Ferizaj, BUSINESS 
+20313,Ardit Azemi,ardit.azemi20313@mail.com,Prizren,business
+20314,Eljesa Krasniqi,eljesa.krasniqi20314@mail.com,Ferizaj,retail
+20315,Diona Azemi,diona.azemi20315@mail.com, Peja ,retail
+20316,Yllza Krasniqi,yllza.krasniqi20316@mail.com,prizren,retail
+20317,Yllza Fejzullahu,yllza.fejzullahu20317@mail.com,Vushtrri,retail
+20318,Melos Shtitarica,melos.shtitarica20318@mail.com,prishtina, BUSINESS 
+20319,Amar Beqiri,amar.beqiri20319@mail.com,Vushtrri, BUSINESS 
+20320,Eljesa Kalludra,eljesa.kalludra20320@mail.com, Prizren ,business
+20321,Ardit Aliu,ardit.aliu20321@mail.com,GJILAN,business
+20322,Amar Tahiri,amar.tahiri20322@mail.com,Peja,vip
+20323,Leard Kalludra,leard.kalludra20323@mail.com, Mitrovice ,retail
+20324,Leon Beqiri,leon.beqiri20324@mail.com, Gjilan , BUSINESS 
+20325,Diona Gashi,diona.gashi20325@mail.com,Gjilan,business
+20326,Melos Shala,melos.shala20326@mail.com,Peja,vip
+20327,Rijon Aliu,rijon.aliu20327@mail.com, Ferizaj ,Retail
+20328,Rijon Azemi,rijon.azemi20328@mail.com,Peja,Retail
+20329,Sara Berisha,sara.berisha20329@mail.com,Prishtina,business
+20330,Urim Beqiri,urim.beqiri20330@mail.com,Ferizaj,business
+20331,Dren Berisha,dren.berisha20331@mail.com,Gjakovë,Retail
+20332,,sara.avdiu20332@mail.com,Peja,business
+20333,Leon Azemi,leon.azemi20333@mail.com,Gjakove,vip
+20334,Sara Avdiu,sara.avdiu20334@mail.com, Prizren ,vip
+20335,Amar Krasniqi,amar.krasniqi20335@mail.com,Gjilan,retail
+20336,Era Tahiri,era.tahiri20336@mail.com, Gjakove ,vip
+20337,Diona Beqiri,diona.beqiri20337@mail.com,Vushtrri,Retail
+20338,Era Shala,era.shala20338@mail.com, Prizren ,retail
+20339,Diona Gashi,diona.gashi20339@mail.com,prizren, BUSINESS 
+20340,Dren Avdiu,dren.avdiu20340@mail.com, Gjilan ,business
+20341,Rijad Beqiri,rijad.beqiri20341@mail.com, Gjilan ,retail
+20342,Diona Kalludra,diona.kalludra20342@mail.com,Gjilan,retail
+20343,Amar Krasniqi,amar.krasniqi20343@mail.com,ferizaj,retail
+20344,Era Tahiri,era.tahiri20344@mail.com,Mitrovice,business
+20345,Ensar Fejzullahu,ensar.fejzullahu20345@mail.com,Prizren,Retail
+20346,Dren Krasniqi,dren.krasniqi20346@mail.com,Gjakove,Retail
+20347,Ensar Shala,ensar.shala20347@mail.com, Prizren ,vip
+20348,Era Shtitarica,era.shtitarica20348@mail.com,Prishtina,Retail
+20349,Melos Aliu,melos.aliu20349@mail.com,Prishtina,vip
+20350,Yllza Krasniqi,yllza.krasniqi20350@mail.com,GJILAN,vip
+20351,Leard Gashi,leard.gashi20351@mail.com,VUSHTRRI,retail
+20352,Melos Gashi,melos.gashi20352@mail.com, Prizren ,retail
+20353,Melos Avdiu,melos.avdiu20353@mail.com,Peja,Retail
+20354,Rijon Kalludra,rijon.kalludra20354@mail.com, Ferizaj ,retail
+20355,Dren Berisha,dren.berisha20355@mail.com,gjakove,vip
+20356,Melos Gashi,melos.gashi20356@mail.com, Peja , BUSINESS 
+20357,Eljesa Azemi,eljesa.azemi20357@mail.com,Gjilan,business
+20358,Leard Shtitarica,leard.shtitarica20358@mail.com,prizren,Retail
+20359,Diona Shala,diona.shala20359@mail.com,MITROVICE, BUSINESS 
+20360,Leard Gashi,leard.gashi20360@mail.com, Gjakove ,vip
+20361,Era Beqiri,era.beqiri20361@mail.com,MITROVICE,vip
+20362,Urim Avdiu,urim.avdiu20362@mail.com,PRIZREN,retail
+20363,Yllza Gashi,bad-email,Gjilan,vip
+20364,Sara Berisha,sara.berisha20364@mail.com, Prishtina ,vip
+20365,Era Azemi,era.azemi20365@mail.com, Mitrovice , BUSINESS 
+20366,Leard Shala,leard.shala20366@mail.com,peja,Retail
+20367,Ensar Kalludra,ensar.kalludra20367@mail.com,Prishtina,business
+20368,Era Berisha,era.berisha20368@mail.com,Mitrovice, BUSINESS 
+20369,Eljesa Beqiri,eljesa.beqiri20369@mail.com,MITROVICE,business
+20370,Era Avdiu,era.avdiu20370@mail.com, Vushtrri , BUSINESS 
+20371,Melos Aliu,melos.aliu20371@mail.com,mitrovice, BUSINESS 
+20372,Eljesa Beqiri,eljesa.beqiri20372@mail.com,GJILAN,retail
+20373,Melos Beqiri,melos.beqiri20373@mail.com, Peja ,vip
+20374,Rijon Kalludra,rijon.kalludra20374@mail.com,Gjakovë,business
+20375,Rijon Kalludra,rijon.kalludra20375@mail.com,Prizren,business
+20376,Sara Beqiri,sara.beqiri20376@mail.com, Prishtina ,vip
+20377,Ensar Shala,ensar.shala20377@mail.com,Vushtrri,retail
+20378,Leon Shtitarica,leon.shtitarica20378@mail.com,Prizren, BUSINESS 
+20379,Dren Kalludra,dren.kalludra20379@mail.com, Gjakove ,business
+20380,Rijon Berisha,rijon.berisha20380@mail.com,gjakove,business
+20381,Dren Tahiri,dren.tahiri20381@mail.com, Peja , BUSINESS 
+20382,Leard Shtitarica,leard.shtitarica20382@mail.com, Gjilan ,Retail
+20383,Diona Azemi,diona.azemi20383@mail.com,peja,vip
+20384,Amar Fejzullahu,amar.fejzullahu20384@mail.com,FERIZAJ,Retail
+20385,Era Shtitarica,era.shtitarica20385@mail.com,PRISHTINA,retail
+20386,Dren Krasniqi,dren.krasniqi20386@mail.com,Prishtina,Retail
+20387,Ardit Avdiu,ardit.avdiu20387@mail.com,PRIZREN,vip
+20388,Era Fejzullahu,era.fejzullahu20388@mail.com,Prizren,Retail
+20389,Leard Fejzullahu,leard.fejzullahu20389@mail.com, Gjilan ,business
+20390,Rijad Aliu,rijad.aliu20390@mail.com,gjakove,business
+20391,Rijad Azemi,rijad.azemi20391@mail.com,Ferizaj, BUSINESS 
+20392,Diona Shtitarica,diona.shtitarica20392@mail.com,FERIZAJ,retail
+20393,Dren Avdiu,dren.avdiu20393@mail.com,ferizaj,Retail
+20394,Leon Beqiri,leon.beqiri20394@mail.com,Mitrovicë, BUSINESS 
+20395,Urim Aliu,urim.aliu20395@mail.com,Gjilan,business
+20396,Rijon Aliu,rijon.aliu20396@mail.com,Prizren,business
+20397,Diona Gashi,diona.gashi20397@mail.com,peja,Retail
+20398,Dren Fejzullahu,dren.fejzullahu20398@mail.com,Vushtrri,retail
+20399,Leon Shala,leon.shala20399@mail.com, Ferizaj , BUSINESS 
+20400,Dren Krasniqi,dren.krasniqi20400@mail.com, Gjakove ,business
+20401,Leon Aliu,leon.aliu20401@mail.com,GJAKOVE,Retail
+20402,Rijad Kalludra,rijad.kalludra20402@mail.com,mitrovice,Retail
+20403,Era Shala,era.shala20403@mail.com,mitrovice,vip
+20404,Amar Aliu,amar.aliu20404@mail.com,Peja,business
+20405,Yllza Gashi,yllza.gashi20405@mail.com, Peja ,business
+20406,Sara Tahiri,sara.tahiri20406@mail.com, Peja ,retail
+20407,Yllza Berisha,yllza.berisha20407@mail.com,prishtina,retail
+20408,Melos Fejzullahu,melos.fejzullahu20408@mail.com, Gjilan , BUSINESS 
+20409,Yllza Aliu,yllza.aliu20409@mail.com,GJILAN,vip
+20410,Sara Azemi,sara.azemi20410@mail.com,gjilan,retail
+20411,Amar Berisha,amar.berisha20411@mail.com,Peja,business
+20412,Urim Shala,urim.shala20412@mail.com, Peja ,retail
+20413,Rijad Krasniqi,rijad.krasniqi20413@mail.com,vushtrri,business
+20414,Leon Fejzullahu,leon.fejzullahu20414@mail.com,Prishtina, BUSINESS 
+20415,Melos Shtitarica,melos.shtitarica20415@mail.com,PEJA, BUSINESS 
+20416,Dren Berisha,dren.berisha20416@mail.com,PRIZREN,retail
+20417,Rijon Avdiu,rijon.avdiu20417@mail.com,peja,business
+20418,Era Avdiu,era.avdiu20418@mail.com, Prishtina ,retail
+20419,Melos Beqiri,melos.beqiri20419@mail.com,PEJA,retail
+20420,Urim Azemi,urim.azemi20420@mail.com,Prizren,Retail
+20421,Sara Avdiu,sara.avdiu20421@mail.com,Prizren,retail
+20422,Era Gashi,era.gashi20422@mail.com,FERIZAJ, BUSINESS 
+20423,Urim Aliu,urim.aliu20423@mail.com,Gjilan,vip
+20424,Amar Aliu,amar.aliu20424@mail.com, Gjakove ,vip
+20425,Eljesa Avdiu,eljesa.avdiu20425@mail.com,GJILAN, BUSINESS 
+20426,Sara Gashi,sara.gashi20426@mail.com, Vushtrri ,Retail
+20427,Leon Shtitarica,leon.shtitarica20427@mail.com,Gjakove,business
+20428,Era Aliu,era.aliu20428@mail.com,ferizaj,retail
+20429,Amar Aliu,amar.aliu20429@mail.com,PEJA,retail
+20430,Dren Krasniqi,dren.krasniqi20430@mail.com,Mitrovice,business
+20431,Sara Azemi,sara.azemi20431@mail.com,PEJA, BUSINESS 
+20432,Dren Aliu,dren.aliu20432@mail.com, Gjakove ,Retail
+20433,Melos Avdiu,melos.avdiu20433@mail.com, Gjilan ,retail
+20434,Leon Krasniqi,leon.krasniqi20434@mail.com,prizren,vip
+20435,Dren Aliu,dren.aliu20435@mail.com,ferizaj,Retail
+20436,Ensar Berisha,ensar.berisha20436@mail.com,PEJA,retail
+20437,Ardit Tahiri,ardit.tahiri20437@mail.com,Mitrovice, BUSINESS 
+20438,Sara Gashi,sara.gashi20438@mail.com, Peja , BUSINESS 
+20439,Eljesa Berisha,eljesa.berisha20439@mail.com, Mitrovice ,Retail
+20440,Amar Shtitarica,amar.shtitarica20440@mail.com,Prishtina,Retail
+20441,Sara Krasniqi,sara.krasniqi20441@mail.com,Prishtina,retail
+20442,Yllza Aliu,yllza.aliu20442@mail.com, Peja , BUSINESS 
+20443,Leard Kalludra,leard.kalludra20443@mail.com,vushtrri,business
+20444,Ardit Shtitarica,ardit.shtitarica20444@mail.com, Prishtina ,Retail
+20445,Rijad Kalludra,rijad.kalludra20445@mail.com,Gjilan,Retail
+20446,Leon Avdiu,leon.avdiu20446@mail.com,Vushtrri, BUSINESS 
+20447,Dren Beqiri,dren.beqiri20447@mail.com,Prishtina,vip
+20448,Dren Kalludra,dren.kalludra20448@mail.com,Gjakovë,vip
+20449,Leard Berisha,leard.berisha20449@mail.com,Gjakove,vip
+20450,Leard Fejzullahu,leard.fejzullahu20450@mail.com,Vushtrri,business
+20451,Melos Fejzullahu,melos.fejzullahu20451@mail.com, Gjakove ,business
+20452,Urim Kalludra,urim.kalludra20452@mail.com,Gjakovë,Retail
+20453,Eljesa Azemi,eljesa.azemi20453@mail.com,PEJA,business
+20454,Era Shtitarica,era.shtitarica20454@mail.com,Prizren,vip
+20455,Urim Kalludra,urim.kalludra20455@mail.com,peja,vip
+20456,Urim Azemi,urim.azemi20456@mail.com,Gjilan, BUSINESS 
+20457,Yllza Berisha,yllza.berisha20457@mail.com,Prishtina,vip
+20458,Diona Aliu,diona.aliu20458@mail.com,Peja,retail
+20459,Rijon Azemi,rijon.azemi20459@mail.com,Gjilan,business
+20460,Ensar Kalludra,ensar.kalludra20460@mail.com,Prizren,vip
+20461,Melos Fejzullahu,melos.fejzullahu20461@mail.com,FERIZAJ,vip
+20462,Dren Shtitarica,bad-email,VUSHTRRI,business
+20463,Melos Berisha,melos.berisha20463@mail.com,Vushtrri,business
+20464,Ardit Azemi,ardit.azemi20464@mail.com,peja,vip
+20465,Ardit Avdiu,ardit.avdiu20465@mail.com,vushtrri,vip
+20466,Diona Gashi,diona.gashi20466@mail.com,prizren,Retail
+20467,Rijon Shtitarica,rijon.shtitarica20467@mail.com, Vushtrri ,vip
+20468,Ardit Fejzullahu,ardit.fejzullahu20468@mail.com,Ferizaj,Retail
+20469,Leard Gashi,leard.gashi20469@mail.com,GJILAN,retail
+20470,Era Krasniqi,era.krasniqi20470@mail.com,Mitrovice,retail
+20471,Ardit Tahiri,ardit.tahiri20471@mail.com, Prizren ,business
+20472,Dren Fejzullahu,dren.fejzullahu20472@mail.com,PRISHTINA,vip
+20473,Amar Azemi,amar.azemi20473@mail.com,Ferizaj, BUSINESS 
+20474,Yllza Berisha,yllza.berisha20474@mail.com, Ferizaj ,retail
+20475,Leard Gashi,leard.gashi20475@mail.com,FERIZAJ,Retail
+20476,Yllza Avdiu,yllza.avdiu20476@mail.com,Mitrovice,vip
+20477,Amar Tahiri,amar.tahiri20477@mail.com,Prishtina,business
+20478,Dren Avdiu,dren.avdiu20478@mail.com,ferizaj,retail
+20479,Leon Krasniqi,leon.krasniqi20479@mail.com, Prishtina ,business
+20480,Melos Krasniqi,melos.krasniqi20480@mail.com, Ferizaj , BUSINESS 
+20481,Rijad Azemi,rijad.azemi20481@mail.com,GJAKOVE,vip
+20482,Yllza Shtitarica,yllza.shtitarica20482@mail.com,Vushtrri,retail
+20483,Eljesa Fejzullahu,eljesa.fejzullahu20483@mail.com,PEJA,retail
+20484,Yllza Gashi,yllza.gashi20484@mail.com,PRISHTINA,Retail
+20485,Ensar Berisha,ensar.berisha20485@mail.com,Gjakovë, BUSINESS 
+20486,Leon Berisha,leon.berisha20486@mail.com, Prizren ,retail
+20487,Melos Tahiri,melos.tahiri20487@mail.com,Peja,vip
+20488,Rijad Tahiri,rijad.tahiri20488@mail.com,Mitrovice,business
+20489,Leon Gashi,leon.gashi20489@mail.com,Prishtina,retail
+20490,Urim Gashi,urim.gashi20490@mail.com,vushtrri, BUSINESS 
+20491,Eljesa Azemi,eljesa.azemi20491@mail.com,Peja,retail
+20492,Leard Tahiri,leard.tahiri20492@mail.com,GJILAN,retail
+20493,Ensar Fejzullahu,ensar.fejzullahu20493@mail.com,Prishtina,business
+20494,Rijon Shtitarica,bad-email,Peja,Retail
+20495,Ensar Aliu,ensar.aliu20495@mail.com,vushtrri,vip
+20496,Era Krasniqi,era.krasniqi20496@mail.com, Peja ,retail
+20497,Sara Kalludra,sara.kalludra20497@mail.com,Vushtrri,Retail
+20498,Leard Kalludra,leard.kalludra20498@mail.com, Gjakove ,vip
+20499,Sara Avdiu,sara.avdiu20499@mail.com,Prishtina,retail
+20500,Amar Gashi,amar.gashi20500@mail.com,Gjakovë,vip
+20501,Yllza Azemi,yllza.azemi20501@mail.com, Prizren ,retail
+20502,Era Fejzullahu,era.fejzullahu20502@mail.com,VUSHTRRI,business
+20503,Urim Aliu,urim.aliu20503@mail.com,PRIZREN, BUSINESS 
+20504,Yllza Gashi,yllza.gashi20504@mail.com,MITROVICE, BUSINESS 
+20505,Rijon Shtitarica,rijon.shtitarica20505@mail.com,Vushtrri,business
+20506,Amar Aliu,amar.aliu20506@mail.com,Ferizaj,vip
+20507,Melos Krasniqi,melos.krasniqi20507@mail.com,Prishtina,business
+20508,Amar Avdiu,amar.avdiu20508@mail.com,Mitrovicë,business
+20509,Diona Berisha,diona.berisha20509@mail.com,Vushtrri,retail
+20510,Diona Gashi,diona.gashi20510@mail.com,Prishtina,Retail
+20511,Rijad Berisha,rijad.berisha20511@mail.com,Gjakovë,business
+20512,Amar Azemi,amar.azemi20512@mail.com,prishtina,Retail
+20513,Leard Avdiu,leard.avdiu20513@mail.com,prishtina,retail
+20514,Yllza Azemi,yllza.azemi20514@mail.com,Gjilan,retail
+20515,Diona Shala,diona.shala20515@mail.com,mitrovice,Retail
+20516,Dren Gashi,dren.gashi20516@mail.com,GJILAN,vip
+20517,Yllza Avdiu,yllza.avdiu20517@mail.com, Peja ,Retail
+20518,Amar Fejzullahu,amar.fejzullahu20518@mail.com,Prizren,retail
+20519,Diona Tahiri,diona.tahiri20519@mail.com,peja,retail
+20520,Dren Aliu,dren.aliu20520@mail.com,Prizren,Retail
+20521,Rijad Beqiri,rijad.beqiri20521@mail.com,Prishtina,business
+20522,Sara Shtitarica,sara.shtitarica20522@mail.com,VUSHTRRI,vip
+20523,Diona Beqiri,diona.beqiri20523@mail.com,Prishtina, BUSINESS 
+20524,Urim Azemi,urim.azemi20524@mail.com,MITROVICE,vip
+20525,Diona Kalludra,bad-email, Mitrovice ,retail
+20526,Yllza Beqiri,yllza.beqiri20526@mail.com,peja,Retail
+20527,Era Gashi,era.gashi20527@mail.com,vushtrri,Retail
+20528,Melos Kalludra,melos.kalludra20528@mail.com,ferizaj,business
+20529,Dren Azemi,dren.azemi20529@mail.com,Gjakovë,retail
+20530,Yllza Kalludra,yllza.kalludra20530@mail.com,Vushtrri,Retail
+20531,Leon Tahiri,leon.tahiri20531@mail.com,PEJA,business
+20532,Eljesa Gashi,eljesa.gashi20532@mail.com,ferizaj,business
+20533,Sara Tahiri,sara.tahiri20533@mail.com,Gjilan,Retail
+20534,Diona Tahiri,diona.tahiri20534@mail.com,FERIZAJ,business
+20535,Rijad Fejzullahu,rijad.fejzullahu20535@mail.com,Gjakove, BUSINESS 
+20536,Yllza Avdiu,yllza.avdiu20536@mail.com,Peja, BUSINESS 
+20537,Rijon Fejzullahu,rijon.fejzullahu20537@mail.com, Ferizaj , BUSINESS 
+20538,Ardit Krasniqi,ardit.krasniqi20538@mail.com,GJILAN,business
+20539,Leon Beqiri,leon.beqiri20539@mail.com,Prishtina,retail
+20540,Leard Berisha,leard.berisha20540@mail.com,Mitrovice,retail
+20541,Diona Berisha,diona.berisha20541@mail.com,Ferizaj,vip
+20542,Leard Beqiri,leard.beqiri20542@mail.com,Peja, BUSINESS 
+20543,Urim Kalludra,urim.kalludra20543@mail.com,PRISHTINA,vip
+20544,Ensar Shala,ensar.shala20544@mail.com, Prizren , BUSINESS 
+20545,Urim Avdiu,urim.avdiu20545@mail.com,Gjilan,retail
+20546,Dren Beqiri,bad-email, Ferizaj ,Retail
+20547,Ensar Azemi,ensar.azemi20547@mail.com, Gjakove ,Retail
+20548,Melos Avdiu,melos.avdiu20548@mail.com,prizren, BUSINESS 
+20549,Ardit Avdiu,ardit.avdiu20549@mail.com,gjakove,retail
+20550,Diona Avdiu,diona.avdiu20550@mail.com,VUSHTRRI,business
+20551,Ardit Fejzullahu,ardit.fejzullahu20551@mail.com,Mitrovicë,retail
+20552,Leard Avdiu,leard.avdiu20552@mail.com,Prishtina,retail
+20553,Yllza Aliu,yllza.aliu20553@mail.com,PRIZREN,Retail
+20554,Urim Kalludra,urim.kalludra20554@mail.com,MITROVICE,vip
+20555,Diona Avdiu,diona.avdiu20555@mail.com,Gjakove,vip
+20556,Eljesa Gashi,eljesa.gashi20556@mail.com,Mitrovicë,business
+20557,Rijon Beqiri,rijon.beqiri20557@mail.com,FERIZAJ,Retail
+20558,Leon Krasniqi,leon.krasniqi20558@mail.com,GJAKOVE,vip
+20559,Eljesa Aliu,eljesa.aliu20559@mail.com, Ferizaj ,vip
+20560,Melos Shala,melos.shala20560@mail.com,Vushtrri,retail
+20561,Ensar Gashi,ensar.gashi20561@mail.com,Peja,business
+20562,Sara Shala,sara.shala20562@mail.com,Gjakove,retail
+20563,Ensar Beqiri,ensar.beqiri20563@mail.com, Prizren ,retail
+20564,Ensar Beqiri,ensar.beqiri20564@mail.com,Gjakovë, BUSINESS 
+20565,Ensar Tahiri,ensar.tahiri20565@mail.com,gjilan,retail
+20566,Ardit Aliu,ardit.aliu20566@mail.com,Vushtrri,retail
+20567,Urim Berisha,urim.berisha20567@mail.com,mitrovice,retail
+20568,Leon Shala,leon.shala20568@mail.com, Prishtina ,Retail
+20569,Rijon Fejzullahu,rijon.fejzullahu20569@mail.com,Mitrovicë,business
+20570,Rijon Avdiu,rijon.avdiu20570@mail.com,ferizaj,retail
+20571,Leard Azemi,leard.azemi20571@mail.com, Gjakove ,business
+20572,Sara Gashi,sara.gashi20572@mail.com, Prizren ,vip
+20573,Melos Shala,melos.shala20573@mail.com,Mitrovice,business
+20574,Ardit Shala,ardit.shala20574@mail.com,Mitrovice,vip
+20575,Rijad Kalludra,rijad.kalludra20575@mail.com,PEJA,business
+20576,Rijon Aliu,rijon.aliu20576@mail.com,prizren, BUSINESS 
+20577,Leon Aliu,leon.aliu20577@mail.com, Peja , BUSINESS 
+20578,Leard Gashi,leard.gashi20578@mail.com,PRISHTINA,business
+20579,Sara Shtitarica,sara.shtitarica20579@mail.com, Mitrovice ,business
+20580,Melos Shala,melos.shala20580@mail.com,GJAKOVE,retail
+20581,Melos Aliu,melos.aliu20581@mail.com,mitrovice,Retail
+20582,Era Shtitarica,era.shtitarica20582@mail.com,Peja,business
+20583,Leard Avdiu,leard.avdiu20583@mail.com,Ferizaj, BUSINESS 
+20584,Urim Tahiri,urim.tahiri20584@mail.com, Vushtrri ,Retail
+20585,Amar Azemi,amar.azemi20585@mail.com,GJILAN,Retail
+20586,Leon Tahiri,leon.tahiri20586@mail.com,Prizren,retail
+20587,Leon Azemi,leon.azemi20587@mail.com,gjakove,business
+20588,Diona Kalludra,diona.kalludra20588@mail.com,gjakove,retail
+20589,Dren Kalludra,dren.kalludra20589@mail.com,PRIZREN, BUSINESS 
+20590,Rijon Fejzullahu,rijon.fejzullahu20590@mail.com,GJAKOVE,vip
+20591,Amar Aliu,amar.aliu20591@mail.com, Vushtrri ,Retail
+20592,Dren Azemi,dren.azemi20592@mail.com,Ferizaj,Retail
+20593,Melos Kalludra,melos.kalludra20593@mail.com,GJILAN,retail
+20594,Era Shtitarica,era.shtitarica20594@mail.com,Prishtina,Retail
+20595,Diona Shtitarica,diona.shtitarica20595@mail.com,peja, BUSINESS 
+20596,Yllza Aliu,yllza.aliu20596@mail.com,ferizaj,retail
+20597,Dren Fejzullahu,dren.fejzullahu20597@mail.com,PEJA,retail
+20598,Leard Aliu,leard.aliu20598@mail.com, Vushtrri ,vip
+20599,Amar Kalludra,amar.kalludra20599@mail.com,FERIZAJ,vip
+20600,Rijad Shala,rijad.shala20600@mail.com,Gjilan,retail
+20601,Dren Azemi,dren.azemi20601@mail.com,Vushtrri,retail
+20602,Leard Beqiri,leard.beqiri20602@mail.com,MITROVICE, BUSINESS 
+20603,Eljesa Aliu,eljesa.aliu20603@mail.com,Prizren,business
+20604,Sara Shtitarica,sara.shtitarica20604@mail.com, Gjilan ,Retail
+20605,Rijad Kalludra,rijad.kalludra20605@mail.com,Prizren,vip
+20606,Sara Gashi,sara.gashi20606@mail.com,vushtrri,retail
+20607,Melos Berisha,melos.berisha20607@mail.com,peja, BUSINESS 
+20608,Dren Gashi,dren.gashi20608@mail.com,prizren,business
+20609,Ardit Aliu,bad-email,Prizren,business
+20610,Dren Aliu,dren.aliu20610@mail.com,vushtrri, BUSINESS 
+20611,Dren Avdiu,dren.avdiu20611@mail.com,Gjakove, BUSINESS 
+20612,Diona Beqiri,diona.beqiri20612@mail.com,PRISHTINA,vip
+20613,Sara Fejzullahu,sara.fejzullahu20613@mail.com, Ferizaj ,Retail
+20614,Rijad Azemi,rijad.azemi20614@mail.com, Gjilan ,vip
+20615,Sara Krasniqi,sara.krasniqi20615@mail.com,Ferizaj,business
+20616,Era Gashi,era.gashi20616@mail.com,gjakove,business
+20617,Leard Avdiu,leard.avdiu20617@mail.com,prishtina,business
+20618,Ardit Kalludra,ardit.kalludra20618@mail.com,Prishtina,retail
+20619,Ensar Shala,ensar.shala20619@mail.com,FERIZAJ,retail
+20620,Diona Azemi,diona.azemi20620@mail.com,PRIZREN,vip
+20621,Melos Avdiu,melos.avdiu20621@mail.com,Peja,retail
+20622,Dren Tahiri,dren.tahiri20622@mail.com,prizren, BUSINESS 
+20623,Rijad Tahiri,rijad.tahiri20623@mail.com,GJILAN,vip
+20624,Eljesa Kalludra,eljesa.kalludra20624@mail.com, Ferizaj ,business
+20625,Rijon Aliu,rijon.aliu20625@mail.com,VUSHTRRI,business
+20626,Sara Berisha,sara.berisha20626@mail.com,Ferizaj,vip
+20627,Diona Krasniqi,diona.krasniqi20627@mail.com,PEJA,business
+20628,Eljesa Shtitarica,eljesa.shtitarica20628@mail.com,vushtrri,Retail
+20629,Yllza Tahiri,yllza.tahiri20629@mail.com,peja,Retail
+20630,Ensar Kalludra,ensar.kalludra20630@mail.com, Vushtrri , BUSINESS 
+20631,Melos Aliu,melos.aliu20631@mail.com, Gjilan ,Retail
+20632,Yllza Beqiri,yllza.beqiri20632@mail.com, Gjilan ,vip
+20633,Diona Tahiri,diona.tahiri20633@mail.com,Mitrovice,retail
+20634,Diona Fejzullahu,diona.fejzullahu20634@mail.com,peja,business
+20635,Leard Azemi,leard.azemi20635@mail.com, Ferizaj ,vip
+20636,Yllza Fejzullahu,yllza.fejzullahu20636@mail.com,Prizren,Retail
+20637,Ensar Shala,ensar.shala20637@mail.com,Peja,business
+20638,Leon Berisha,leon.berisha20638@mail.com, Gjakove ,retail
+20639,Dren Gashi,dren.gashi20639@mail.com,PRIZREN,retail
+20640,Eljesa Shtitarica,eljesa.shtitarica20640@mail.com,ferizaj, BUSINESS 
+20641,Urim Avdiu,urim.avdiu20641@mail.com,Gjilan,retail
+20642,Sara Tahiri,sara.tahiri20642@mail.com,Prishtina, BUSINESS 
+20643,Ensar Shtitarica,ensar.shtitarica20643@mail.com,prizren,Retail
+20644,Era Fejzullahu,era.fejzullahu20644@mail.com,mitrovice,Retail
+20645,Urim Shala,urim.shala20645@mail.com,FERIZAJ,retail
+20646,Sara Aliu,sara.aliu20646@mail.com,VUSHTRRI,business
+20647,Leard Kalludra,leard.kalludra20647@mail.com,Prishtina,Retail
+20648,Amar Shala,amar.shala20648@mail.com,Mitrovicë, BUSINESS 
+20649,Amar Fejzullahu,amar.fejzullahu20649@mail.com,Vushtrri,business
+20650,Ensar Tahiri,ensar.tahiri20650@mail.com,Gjilan,retail
+20651,Rijon Berisha,rijon.berisha20651@mail.com,Gjakovë,Retail
+20652,Melos Gashi,melos.gashi20652@mail.com, Gjilan ,vip
+20653,Sara Gashi,sara.gashi20653@mail.com,gjakove,Retail
+20654,Ensar Fejzullahu,ensar.fejzullahu20654@mail.com,peja, BUSINESS 
+20655,Dren Berisha,dren.berisha20655@mail.com, Gjakove , BUSINESS 
+20656,Ardit Tahiri,ardit.tahiri20656@mail.com,Peja,vip
+20657,Rijon Gashi,rijon.gashi20657@mail.com,prizren,Retail
+20658,Eljesa Tahiri,eljesa.tahiri20658@mail.com,Gjakove,Retail
+20659,Yllza Tahiri,yllza.tahiri20659@mail.com,prizren,business
+20660,Rijad Tahiri,rijad.tahiri20660@mail.com, Vushtrri ,vip
+20661,Ardit Aliu,ardit.aliu20661@mail.com, Peja ,Retail
+20662,Leon Shtitarica,leon.shtitarica20662@mail.com, Prishtina ,vip
+20663,Sara Shtitarica,sara.shtitarica20663@mail.com,FERIZAJ,business
+20664,Ensar Tahiri,ensar.tahiri20664@mail.com,Gjilan, BUSINESS 
+20665,Rijon Aliu,rijon.aliu20665@mail.com,gjakove, BUSINESS 
+20666,Leon Shtitarica,leon.shtitarica20666@mail.com, Ferizaj ,business
+20667,Yllza Berisha,yllza.berisha20667@mail.com,Ferizaj,retail
+20668,Leard Tahiri,leard.tahiri20668@mail.com,GJILAN,vip
+20669,Melos Shtitarica,melos.shtitarica20669@mail.com,prizren,retail
+20670,Dren Shala,dren.shala20670@mail.com,Peja,Retail
+20671,Ardit Avdiu,ardit.avdiu20671@mail.com,PEJA,Retail
+20672,Leon Krasniqi,leon.krasniqi20672@mail.com,gjakove,business
+20673,Diona Krasniqi,diona.krasniqi20673@mail.com,Gjilan, BUSINESS 
+20674,Dren Kalludra,dren.kalludra20674@mail.com,PEJA, BUSINESS 
+20675,Sara Azemi,sara.azemi20675@mail.com,FERIZAJ,business
+20676,Urim Shtitarica,urim.shtitarica20676@mail.com,Gjilan,business
+20677,Era Avdiu,era.avdiu20677@mail.com, Gjakove ,Retail
+20678,Rijon Beqiri,bad-email,GJILAN,retail
+20679,Rijad Berisha,rijad.berisha20679@mail.com,Prizren, BUSINESS 
+20680,Amar Tahiri,amar.tahiri20680@mail.com,Prizren,vip
+20681,Amar Berisha,amar.berisha20681@mail.com,prishtina,vip
+20682,Leard Beqiri,leard.beqiri20682@mail.com, Gjakove ,business
+20683,Ensar Beqiri,ensar.beqiri20683@mail.com,GJILAN, BUSINESS 
+20684,Rijon Avdiu,rijon.avdiu20684@mail.com,prishtina,business
+20685,Dren Azemi,dren.azemi20685@mail.com,Gjakovë, BUSINESS 
+20686,Rijad Krasniqi,rijad.krasniqi20686@mail.com,Mitrovicë, BUSINESS 
+20687,Sara Kalludra,sara.kalludra20687@mail.com,Peja,Retail
+20688,Ensar Shtitarica,ensar.shtitarica20688@mail.com,peja,Retail
+20689,Ardit Kalludra,ardit.kalludra20689@mail.com,peja,retail
+20690,Amar Krasniqi,amar.krasniqi20690@mail.com, Gjilan ,retail
+20691,Amar Avdiu,amar.avdiu20691@mail.com, Prishtina ,business
+20692,Era Kalludra,era.kalludra20692@mail.com,Ferizaj,retail
+20693,Melos Kalludra,melos.kalludra20693@mail.com,GJILAN,retail
+20694,Ardit Kalludra,ardit.kalludra20694@mail.com,PRIZREN,retail
+20695,Ardit Shala,ardit.shala20695@mail.com,Gjilan,Retail
+20696,Diona Beqiri,diona.beqiri20696@mail.com,Prizren,business
+20697,Amar Berisha,amar.berisha20697@mail.com, Prishtina ,business
+20698,Era Beqiri,era.beqiri20698@mail.com,PRISHTINA,Retail
+20699,Dren Tahiri,dren.tahiri20699@mail.com,Prishtina,Retail
+20700,Leard Azemi,leard.azemi20700@mail.com,mitrovice,business
+20586,Leon Tahiri,leon.tahiri20586@mail.com,Prizren,retail
+20476,Yllza Avdiu,yllza.avdiu20476@mail.com,Mitrovice,vip
+20597,Dren Fejzullahu,dren.fejzullahu20597@mail.com,PEJA,retail
+20442,Yllza Aliu,yllza.aliu20442@mail.com, Peja , BUSINESS 
+20521,Rijad Beqiri,rijad.beqiri20521@mail.com,Prishtina,business
+20124,Leon Avdiu,leon.avdiu20124@mail.com,Vushtrri, BUSINESS 
+20352,Melos Gashi,melos.gashi20352@mail.com, Prizren ,retail
+20020,Diona Azemi,diona.azemi20020@mail.com,Ferizaj,business
+20034,Melos Gashi,melos.gashi20034@mail.com,Prishtina, BUSINESS 
+20601,Dren Azemi,dren.azemi20601@mail.com,Vushtrri,retail
+20681,Amar Berisha,amar.berisha20681@mail.com,prishtina,vip
+20173,Era Tahiri,era.tahiri20173@mail.com, Ferizaj , BUSINESS 
+20445,Rijad Kalludra,rijad.kalludra20445@mail.com,Gjilan,Retail
+20669,Melos Shtitarica,melos.shtitarica20669@mail.com,prizren,retail
+20381,Dren Tahiri,dren.tahiri20381@mail.com, Peja , BUSINESS 
